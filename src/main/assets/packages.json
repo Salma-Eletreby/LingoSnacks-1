@@ -1,0 +1,623 @@
+[
+  {
+    "packageId": 1,
+    "author": "t1@test.com",
+    "category": "Places",
+    "description": "A list of 6 places that we can find in town",
+    "iconUrl": "https://cdn-icons-png.flaticon.com/128/1527/1527531.png",
+    "language": "English",
+    "lastUpdatedDate": "2020/09/17",
+    "level": "Beginner",
+    "title": "Places In Town",
+    "version": 2,
+    "words": [
+      {
+        "text": "Mall",
+        "definitions": [
+          {
+            "text": "Place to go shopping",
+            "source": "Merriam-Webster"
+          }
+        ],
+        "sentences": [
+          {
+            "text": "I bought a new bag from the mall",
+            "resources": [
+              {
+                "title": "Mall of Qatar",
+                "url": "https://gulfbusiness.com/wp-content/uploads/2016/12/Mall-of-Qatar.jpg",
+                "type": "Photo"
+              },
+              {
+                "title": "Mall of Qatar Tour",
+                "url": "https://github.com/erradi/erradi.github.io/blob/master/Mall-of-Qatar-Tour.mp4?raw=true",
+                "type": "Video"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "School",
+        "definitions": [
+          {
+            "text": "Place to learn",
+            "source": "Wikipedia"
+          },
+          {
+            "text": "Place where kids receive their education",
+            "source": "Oxford Dictionary"
+          }
+        ],
+        "sentences": [
+          {
+            "text": "My son goes to Doha British School",
+            "resources": [
+              {
+                "title": "Doha British School",
+                "url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoGBxMUExYRERQXFxYXGBgZFhgYFxkWGBkaHBkZGRkcGRcZHyoiGSAnIBcYIzQjJysuMTExGSE2OzYvOiowMTABCwsLDw4PHRERHTAnIigyMzIwMjAwMDIwMjAzMzAwMDAwMDAwMDAyMDAwMDI4MDAwMDAwMjAwMDAwMDAwMDAwMP/AABEIALcBEwMBIgACEQEDEQH/xAAbAAABBQEBAAAAAAAAAAAAAAAFAAIDBAYBB//EAEoQAAIBAgQDBAUGCggGAwEAAAECEQADBBIhMQUTQQYiUWEycYGRoQcUI0JSsRUkM2JykrLB0fAWNENTc4Kz4VSTosLS8SVj4qP/xAAaAQADAQEBAQAAAAAAAAAAAAABAgMABAUG/8QALxEAAgIBAgQEBgICAwAAAAAAAAECEQMSIQQTMUEiUWGRFDJScYGhQsEzsQXR8P/aAAwDAQACEQMRAD8A9eK0wrU0VwrT2ScSuVppSrJWmFaZSFcSsyVGUq0UppSmUhHAqlKjNurhSmFKdSEcCmbdMNurht0026dSEeMptbpht1dNumG3TKYjxlI26abVXTbpptUdYjxlI2qYbVXzapptUymK8ZQNqmm1V82qabNMpiPEDzZphs0RNmmmzTLII8QONmmmzRE2aabNNrEeIHcmucmiPJrnIo8wXlA/k13k1f5NLk1uYbklDk0uTV/k13k1uYbkg/k0uRRDk0uTW5huSDuRS5FEeTXOTW5huSDjYrnIojyaXJo8wDwg3kV2iPJpUeYDkGyrkU6lFeKfSUMiuEU+lFawURFa4VqQiuRTWK0RFaYVqciuFaNg0lcpXClWCtNK0dQriVylNKVZK00rR1C6SsbdcNurOWuZKbUDQVTbpG3VnJXClHULoKpt002qt5KbGpEbR8Z/hR1g5ZVNqmm1VwpTTbptYOWUzarhtVcNuucujrF5ZT5Vc5VXOXXOXR1i8sqcqlyqt8uuMoGpo6zcsrcuucuqGI7QIpYKs5SoMkqdSOhXwMztGu2tT4LiiXWCjuuGYFT1AGpUkCRJT1SJil5iBoLHLqN3UGGIGhJkiAB4+Hrqrxbj1uxBeCpnWSIKnKcwiQM3dnoayGM4kb18qJUvDhhowQQTBgmDK+zbapz4iMXS6hWOze8uly6odlC3IyPup8NgSSB7Nvd1owEqqnasGgrcqucqreSlko6zcsp8mlVvJSo6zcsOUqVKvPPTFXK7SrGG0ortKiAZFcinUqJhsVyKdFKsLQzLSy0+uRRsFDMtcy0+KUVrBRHlrmWpIrkUbNpI8tVrFwG7dUHVckjwkH/erkVjfk0S4DixeZmuC8AzNu2UFCY6DMraUrnTS8ysMOqEpX0rb7s1uWuFamy1zLT2RohyUilSxXIo2LRCVrmWpstcK0bBpIstNZJqS4QBLEAeJMD41n+Idp+VeW29sgGZmcwOkQANV9LXbbxkZyoDRnO2HDboLYixPN75uIBq9uO9B3zgEkRuAfACs/2d4+9y3dvXD3rAzZxoTPdgQNPQAka981vsVxWxiU5uFu9+0QToQV70SR1Ag7SNuhrHY7D2DbvvasNaGIuW2ud6VCFQ2ZF+pLF9NYOX1VwcRNxdp7MyiZrH8cvPdtBmzF3RJIOaS+aG8e8xP+Y+RohgsSz4g31BHMaFnbooAA+qoFzbbQ+FCrXIsXEfI9xrbFw5hVzqBlXKRMBtMxgEnTQSSVnFNgrVo91799siR6Kd+XYxqT31GWRUY3Jpv3Fd7HovCuMWLSsGJDd0RoS3dJBBmDJzaDxXeatp2qwhKqLwJZgo0Ppa6HTQiNZ2rxjHcXuXrzuCzEswXKcqkHIBHgCU0GpgjwrTdk+D4hjnYKu4vMSCwWYNsrBOWApCwJI9IV3QzSbpIV9T1vLSy1DwlTybYY5iFAzfajQH2iKtRXTYyVojy0qkilQsNBGlSpVznWKhuP4oLLqtxSEbZ9xI3B8CBr6gT0NX3cDU1V4hYt3bTI+qEbjcEagjzBAI8xWAyznETOm8+VUMdxQIYj1fnEfVHnMD/N5Vgr3ai5gyqXSLgUQ5WSrWm0tvrqNm8TmzAk92X8Q4ubiBrFwa6SJ2K+HQqSsga+lO9SnmhFWyMsyirZtcNxQHTNJ73ty5AT7e8fbV6zilb+fHb4Mp/wAwrynH8fZBbeFB7ikxJEZgRI32Y6/aBijPBeK2bim6ToDCLvBMiIHpEageAJ8FmWPilK9qBDNGTo9FilFZDDYy06Z4idvPYT6tRrpsTsDFo4dSNDVVlTVo6Ek+hpIrkVmeTBBGhBBBrR4a5mQNG41qkZ2ZxofXKfFICmsWjPdq+J3Fw1w4LLcxClMqFgsw659Sy7LmO4mI8qLfhC1/eL76B3LPeb9I/ea7yKjzH5DaUWMNjn+dXs7ILHLt8ts8y+ufuz3Y8Y108NbOGSyly7dFwTdyTqIGUEaD2kn10JxiXBac2QDcyty822aDlmOkxWY4BiJuouHfP3n0Zrs8o3WzscxLkgjL9NDZgY00plJtX5DKNXXc2nZ7iNxkuHE5Lbc66EHMDzbDdxpDGJ1MdBFLtJxN0sZsLluXM9sZQyjulxnMk7ATULWKYbNLzZeQvLQdTEIxhXUnwBBNPihPBrX0s/mn7xRnLVYTtWxJRojIrkVIUpImtPYukFcX4bzu6wJQK2gZlJMaQVII6e+sf2k7KhEL2bzWzBnuhlCg27YOokQSNJAOpO1aNLZ8T7zQPtXxq3ai0HUXBGeSDlQ5WLEToBCEsfV1FQnNSW6C8ddzBHDXVS2HYOBPeVnQEdwqGVtJLXCs9B4UZ4Lwy4cJiAyN9Hy2MsSYVO+JI7oEqcvTIRoQTVvgWBTLdvghkFz6EOQcrSVEDQ5YZDrGwNEcObiobyKWNxXW7aE98rmOaykt3lUqcgkEEgaARxpLfYEcd7mcu4JGZ0U94Alswk95V0mI3adD1HkS/tPw98tu3Ztjmopa2WCqWBAV8rkx3VjuxpI67dwt3PdGEuPbUOTduNBJdcqBFCkmQRbWVmdAPrVd4nwY31WzN0cqLlu8xhSraOjkg90+kDBgjaIqiTSpdGCcUmU+ynAgrW81sM4zv6EMChQqHJH5rmQY7wgRqd7wXgCpzC4GYlRIGQwIYDu+yvNOIYi/hrTi3cvWkRozK3MYiIY98rm2Gnd0jwNH+D9ssTeVbeHvrdO7lrYW+szIKHQ7ROo1GtdEM8YLdEopy3PRrNkqAoJIAjXXbzEfGakisvg+0F1G+nKsMveMBWVvs5diTPkYFahDIB8RV4TUlaHoUUqdSpzUTYrErbUs2wBMDcwJMVFh8UL1kXLRIFxMyk6HUaT4UEPGrN5LwDHOqOGVhDaKdh1HXSqnCsZc+b4dVDQLKDusARAWWg79NuhPjSSioxvvY8cmqVIF4jFX+Y9u64DLq9rOe+sRmgxlO3kSAepIrXuMXQmQ3c3eHMtsVVypB0LHRzt3oEwZ3miXGOJ2XFvmrLC5lW5GRgIA1J6Hb29aDcSSy97IQjo6M5GpCkMxIBAkQIAG+0T08niZzjbiwJJOmWuJXrN5GYQzpC5GYA5WUBg09NtZ31NZIObF97UPCqeWYysCYgOI7p2H5wHgYqY2g1tksXH0buA6sHEkgMBquYgT4euqHEsbiHt2rz2wAjsAMvf0CCSI7yj9x31qKjKdt9RG69SLjNsG3kCjOuQnJqR6QYmNSPQEdNY3ireAxb4YLYLLmZGdzuF+yFEd6YiSd/Cg1luZeZoClh6KyoMDMIyxEnLt4Gu468bxWWAjMisJIYZgQrlj3TqIM/W6VfTcUmShBSk/INcR4/icwMoUIUJlzaQBmIXVvtba6k+NbXsTh7zIHuSEIGSBoRvIOx+PsivPcMlhFF29iEBB/JEFrhIJEC2BGmXqQDp7Nr2T7R4i83KXD3UtqTEoQY1Ml4CnqIHxjWuNbbo6oJRezNniVhSao4ayMi9dBqdT76tcUuEYd3MSFnSf31Fw8zZtt4oh96g1T+dehfsNyCnKYqbLXAtM0CwfxK2SykXbiCDIS3ccHXqU2+B8CKjwgdXDNfvOsnMrYe5ruAJy6bg+z2VLxPhBvMjC4y5RBAYgMJBEjY6gHX7iQYrfCL6hst5wWzHS5oCxJYgG0RuZEAVqMRW7Nwb4i8e7H9XuDXv96QPz1/UFTOrH0cRcGkfkLhPXqRruPdXcDwEoIN66G5puZw4LMSqrD5kgjTaD8Kn/AAU/XFYj2coD3cutRrIcYzEuyXrokNkUWbmhKBRBgA6gnXTvHyIoC9iPHEGCn9l6QVTPXST5euRRJ+ByNL95TnZyUYJmLZZzBRBHd8tzUn4MaZ+c3959JI92SIrUYiw5bk2i5OaQGJBUmAwkg69KsAeZrrWsqopZmhvSaCx0beAB8KlC0qW4bIcvmffVvhMi4NT167+uo8tc+drZZHfQFo+BP7qL23Zlucu3gkSCZMAD+em9eOWbl27jMQSCTy2QzmKrooWWOpBK6eO/nXrXE7bshyCW2A8z93Ws/jvmWATLeOa6e++h77H0i0AzPh4RG1BsnJX1MtxTCGxbtWFJCEEqAScz+gxIOmmSASNIY9TWk+TTiSHDXUvuzZCzJLsJSAYgHaYMkHceFLtFgBcw4xClmcWWKtlYISY7wOo2JJOu00E7MpE2FAIuBkViMwY/RiGEaDKyjr6TTMVBOmJKLUlRQ4NjLbYq9fdrFm2HzquIuyCAdLaiCzmFjukR56CtfiOPWsUtq6CtsfkxkBIa45squWYiGuhSSPrNIhdfMcfYuFr620AVXKKubMBAfZvrEB5n1H118Hxm4ty2LmoQghPNSHA/zOqg1fdxVDS2lUjY8bSwTdwl1nUhAcM0llYhrhBzCZ1OUhtsreRrO8N4TfsYhWW2zlQWS5aJnKy+kAOoBOn3iK0nHuGq+KPLYFGAuIBrBeWeCNYJDGJ2ZdopnCibRFy2zc9VyPahDmyktoxbMxyiBA1IA6Co86uos4V0L/COGlsWilsyXHDN6R6mVzzLbDXbfbUV6riryWkLucqKJJiYA8hXl/ZrFm2IyybzquvdYSFGYjqZMgbACQJMnScIW5d5iO6wzs13PLBu5bDBFmCBkPWPXqK6cU4xVdRIwdOjW27qMAyspB2IYQfVSrDY3A4MORLmPB0UbeAiK7V9fo/YFfb3BN3E21clXBlo9EkmfSOaCogAmPLz1tJxd7WV7ckCFAjQMFYIuUdSAVMsOnlQHGYYOzk3FYMxKvAUakLJgdBpm3HdM1ebAWmQJzMjIFGUfRMZGQ6Dw7xIOrBV2jWEoz0rUzQlFyensSW+MvirdxrtoMEZSVCjMp9CZBO+V9SJEeVV8JZFy9ecuEXJHdcSQLimcraqCRrPQnQSIM4bBqmHu2kcN0U5szEnLDMxhRGdpHUjTYVk8LxMYbMlqyhJ15lw52Y+jplA0BJ0kiV9tcEoyba/2UlUUnIqXcFdGYG8bRUi2QcwzqFHfzAd4HINOpO5iiWH4pcZTZ5hGYgokKcx0GVxruAZHjGmlU7vE77/AEpTIAe8WUEyJ0tgDcAzMxPhFO+e2IAVGN1wFUPGQRqdiNgBAgekBPUO0ybSb3J8Lct27sWsMnMZ4U3bhuW1U6tCCMoOXqTUPa7EHFKyomWCHAUgwAIZhpMaifZVXCYS9cuAqhtq0ABwrOSqk3FXQMMs+kI9IEnY0Sw3C7L2CVvozLoqqGzwdCAsEeUCfX4G33YzxadrI+xuNtYJms4i3dz5mchEV2XuoBJzaAxpHjr40Xwfyn27dx/xYw0gFrgVic7vDd0gaudtqztziS27hPLAXvLzisHvARoG10A2O3qo1ge0+FLNcu2CQ7IrlQLgIVAnoN1lB49PGqqT8zKVbXRtfwyuJwVy4oyk2ySs5gNRs0Cau8IH4vZ/wrf7ArOfgrDC1ev4N8qOgJtAFMpBGoRvRB0Ogjc6zppOGf1ez/hW/wBgUYf5X9v7Ol/J+TC9geK4i5jsRYu3XdLSOFDO7SRcVQTLETv061vyK83+TUg8SxpH5/8ArH+FelGuiUUticW2YD5XOI3bC2Llm46alSFd1BkEyQpEkZPia0yBzw5RnfOcIoz5jnzcod7NvmnWd5rH/LeforA/P/7LlbVdMEvlh1/0xQcVVjJu6Mr8kHFb2IXEXL1x3jlqAzuwGjEkB2MEz08BW+Jrzf5CvyOI/ST9mvSSKMkk2kKm2rZ5ri+KX/w0MMLtwWzdRsouXAIChsuXNlymNo6mi3yscRu2MNauWXZDzgDlZ1kFH0OQgmgN8j+kQ/SX/SFFflq/qdv/AB1/YetpVpedG1Omw72Qd2wOGa47OzSxZ2LMZZzuddAYHkBRsCg3ZH+o4X9Ff+6jYFIkO2YHgXG8Tc4vewrXTybTXWC+IBAVST0GcbR6I86N/KJeKYe2wP8AbL+w9Zrssv8A87i/IXPi1v8AhR35VDGFt/46fsXKGePha9DY34kH+JYhktMymGgwfAxvrp7/AHHavKe0Vxrlx5JaXy5iZZso1JI6adOpFes4u1zLT2/tCBO3iPiBWR432VvG7aa0A2VQJgZcxfMzFT/k91RlqYuSNp0c7XdpGt4SxhLBKs6ZW01KLKgARpJA67TTMHw65Z+a5yRDKGHenKASwgEwdD6oPhrH2i4Iwt2714lbiqAi6aMtsfXP52vsHrq7wvBZMQb1y5ccW0utlLG4SFBAgGZMMffQSk4t0NBJVH7HmT2Fa8bdtiFZ2KMftOWy5ifGEBPronx7gDWwFeDcMrmIEGC2WTr3tdeoirWHwQuXuYIGU3kZdZJS4VUwNdS+/lW74fhhfsP84jkl3OY90i5LMSB0IJJ1q2OMnFy7IlnlHmKPdnmmJuXrVy0xBItJbtDWRmCgkiI0IRJ8xGutEOFrnul9UZFQjfXVVjeem3qPSj3EOAoXbkOrpktuVJEgKwYGZ2kCddvGhiWynLS6OZcVn74P1CA6iD0741JgMqjWTU8kU6NFuXXsXuGi43p3QFzktG4BJUEmQAw0iNTAMak0Wx2Lu2rVtmuyA+iFTLaHwbTcHr6R1gQKNnEWsOrZLLXrhAlNBaUkM4Rio9IqC0EGJ8xQzE4s3bQ5jKSHDBVIgKxICwToB5nQPPXS+CMVNWTz6ljlT3Fex6sS28+X+1KqF3DJMFBpA0uCNBGnupV7HxL9DxPh15sLJaLtce7czQSAs7ZWIgeA122086r/ACb3w3Erg1JVbxJPjzhMT5sfcKlsKVa6DuHuTH6Ro32N7CvhcQ2LN5bi3Ubu5CpUu6vvJB2jpUuM4eGPHGup2cDllkzTvoq/sF9uceMPiku2nBcboO8c0FTmUdJJO+8jxFVMPw/FXlN6+MpVTkzQNl0kDu6xAzDc9IrWp2HXnXcQWm42Y282qh2+sepiJHQZtNpoXxbgt5rnzTmZnyplKyvdEkkzpO+2u0HpXjcqc26XRNnpznCNan3SQBxfHLebkWMPmYQpzd9gdNlUwsZmIMn2aVyxw9LTocSCoC6ZRrnc5VDARKiBOk6iaL9jeCsr4iynLVrZtjMyspJLjIVnXIMhHmToTRXtVhcOmVoXmo0sG7+5EmSNhBEbeFPh4d5XSNmmsPilv0/fkZPEca5l57STosMdVhiQogdO6p9ZK690VAyvaxN3l5kIuNKjUOMwlYggnvAgkRrrIoZ2ZfPxO0SxPMvjPOubvE6lp9U1teN4zBfSi1dUuubOClwBWW4giSuskxI8B0qbxOrj5DZlUtu4Z4fwixjcPy7qQwMMCACRnBJ8ROXfeCdprG8T4G2Gd8qZ1tOREE5u6j6zrA5iiBEz11qPA9r71nGW8QwzW2iV2BVgcyodoDsW29INrBr1S3btYhBfQ924uh20OhkePdA9laK1RV9QuKqmYbgnamxdtXbGV0cqQoBNxSM5IzTqsTA306jrveF62LUa/Rp+yKxfbvscEAxmHhXE80DTNOikQPOCDoQa1nDL+bDW2DSRbQEjxWAfVttWgtOR35D76K9SzZwttDKW0U9Sqqpj2CpSKajSRNctOczDz/cK6LEor372GfS41hiNIYoSPftUnzvDkZeZayxEZ0iPCJiKlfCodSo91cGCT7K+4Uvi9BtivhnwtueUbCTvkNtZ9cb1OcdZ/vbf66/xp3zJN8q+4U0Ye1sAnwreP0NsViMLn5v4vnmc/wBHmnxzb13Fthroy3WsOAZAcowB8YbrrVo4FPsL7hTGwNv7C+4VvF6G2IUuWYW3Za3AOioVgCDsq7DWrYWmW8Mq+ioHqAFOQ6mmXqB+hVs8KsLca8lm2t1vSuBFDtO8uBJ2G/hWb+Vo/ilv/HT9i5Wow90nc9T99Y35XcanJt2J7+dLkQfRi6pMxG8aTNJNpxY0F4jYW6fibxRGYCSBoPE++oLbVYU9DRiKzD8SxN7FRmZVCN3Qs5u9IkarAEGZEEHrvV7gwXD827LlEW9cUF+7orKcyzH1pECIk+t3bgWrFhBbFu0ru2bW1aDHKTqX3Pq1qthOJ2lbFHmIxSxfzKrWmYHOF9FO8ACx30FaUXpbFhWtGc4NxdALYVSLr8vNqFBX6QkkjUCUSSRvAg60SxuKt3IV0b0wSNCCSwJGU9BGuvRpNZvE4C47WcchAshEtwSQxOYqe7H2o1Ph6qnvYm/dxAtr6IIUxpObTcga5cxn1e3pwYk8NrrdV+Ls5eIm1xCXbrf56BTC8Q5TpYshXsKjG5cnvq2zTDRDFVhRE6FTIDUP+fjOVuSGcHIFAFxcr3szrAOpW0mmzB13Fc4Hwa9h2CXiqlVe4ArSgUoLZLZhAbTcbSehiq2B4UivfvMvMyQio5iENtpbL1mEXURGc+Fc2XE4pX33R2Ypwm5V1VJhzH8UW2Ta0BQahZBQsYIJ+uYLdV67aGsxhMFzGC23lWQydFK9NROoPejyERrqa4r2OxWXD8i27zZVrjnIjFmZmKurGZVWCzroPECq1zsrfslrpTKgaImSJMqQIg7R7vYcMG8iXXcnnlFY5Ppt18iJuG3fEnzl9fjXaI3MRdBIK5o67T7q5Xr/AA+P6GeD8RP60OsYkXA9wAgOWYA7jMZgx66L4T5VcPpbaxf7sKSotsNNJ9MHpWb4XYa1bZWmB6M/dSwXASjyR1n40nHZY5MWOUfX9HXwOKWPNkUvQ2D/ACn4dQGOGxUEwDltanU/3nlUL9o7Vy5cxLWSLfKGbOAblsAFWICkjUPrrsD4VPhuF2bqBLqBgNRI2O0g9DqaD9p+A2rGGvshcKQJGYt9dSIzTGoHh74rjx5Yxg007aaO6eOU5xpqk0wD2a7Vrhnvpd5t43sqW7oYElUZ9WLkNBzg7mtHxLinOQMYUKojNL5dtGbdhoPefVWK4NwQ3rJva6XGA11EBZ1B+OlaPhFtsgt3DEMst1yg5ifXAPuq3Bzgoyi/mp0/wR/5BTlKLj0tX7mW4LiYxeGfNIXEWWIUakC4rGNhMdKPYt/pMWfmwI7x3vjMfnNofa8ydPDwoJ2UtKcbh1mfpNBMxCsfvHWtdxWyPp2W+VnQ96//AMRbPh5Rp4+FcWOWlHoZo6nuFML2SF/DYW8qweWCVJOhLSNzqBMePdracDwPIsra8C3unT4R7Zqv2Y/qmH1zfRrrqZ03ltffrRKaXSk7QF0oGdsW/E736I/aWhnCOJKmEPddihaco6yWAk7aCr3bV4wV71L+0tUOymuGvev/ALDXNNtZdvIvFLRv5lPh3yiYd7y2Ws4i2x0GZFMnoIVidfVFScS7eWMPddHs3zqNQEG4B2ZgaGY7BL+GMPAAEBoAgbMTp7Kr/KVg/pC8atcT4JH7qbmyq/WgaIhW78plnL9Fh7pboHKIvtKlj8KA4/thjruzi0v2bYy/9RlvjVLAYGRtVN+OWkMFGcglWyLmCkGIJ84OnkaTmTm/CNohHqSXbl9zLuzHxYlvvppW51qS92htKlt+TcIuZoAUSMpymZOlcPabDwIS4W6qLbSvhM6a+VZPL5AegbZx2Ita2rtxP0WKj3DQ0Y4b8oWLtGL6rfXrPcf2Moj3ihGI4zaCoxtvD5oAWSMpgyJ0qHB4q3fc20RgQuY5hGkgePnTJ5UtTWwvgbqzcN8qWGG9jEfq2z8eZV3hHbrDXs5Fu+oQAsWthhrP92Wj0TvFeZ8TwZA0FbbsDgguFxBjVrKT+o/8aaOSUuhnBIk4T8o+Gu3VspavnM5AfIuWNTMZs0QJiJ8qA/KhxFL15eXm7ltVYMpQg5meIPkyn2075LcGuckgaOgGm2hJjw2qj8o+mLxH6Vv/AE7daUm16ASSZ6hbap0uUA4/xV8PZLWlLXHypbAic7Bo306ddKj7I4e+vLu3r91zdtI7JdCAK5WXVQIZSpjTL7T068eLUk7ITnpfQG/LFctjD2eaGI5pjLcW2Z5bdWRp9UUK7LPaGL4ky27mZbGKktcV1JN5Nk5QjXXUmB470b+U9GazaCXjZY3SAQzLJyNAlQT/AOqZwS1kuY5nvNcAsX5RnZwJuqfRjSAIFLOXhcRoLxJma4n2mssiYRVuBwbW4AQRlbeZ28qsY3GJZdLrA5VfM0ak6UA4phF5/Otg5JSJ39FV19tF+KcLuYhgikhBuRuT/Cu/g8uPFwsnLu6/LR53GY5ZOMjp7Jv2Zas8ftYu6z2w6gWmtksArTmBlYJ8evupjYlcFxGxfcMwVIbfNkKFZCDQELlMbEAkCo8DwUYe4ttd7iE+s5lFHu0+DV+IYfDXBI5WViGIY9wnvZT3dUB9Ta9AJ59DxY5d9/vRbh9ccuRdtq8rL1z5SsCQD9NBBgmy8H2+yhfEu3eGxSjD2Vu5iwaWQKsKddzPwq9d7P2+WLaqAqiAN9JPU1nMZwAWXF0DYx79Knw0qzxXqhuIV4ZfZhJnpUvm1w6qsjprSr33xOJbav0fKfBZXvX7F2jUJbkdSK72VxNy7Yz3zL52GwGgiNBQM45Th8rquVJyzcIGjIPSZl+2RqR0qTB8eYK/L5WUAtHdcySB6XOb7q8GTi8UY903+z6lQkpuXZ1+jc4NwPj+6gPyl4qMGRPpXEHultY9X/vahuJ41iA7hQIDMBFtjpMDZTPSoOOi9ibBV/qXWjMOWAI0PftodATqJGu50FQapF4LxE/YNSMPam5Cs108uF11IkEjN0B3ovi1VXQjrnOgmYQnbrWNGJu27Fu3GVreWIXMVLnEZtrbETlX+d38G4peLZH1QJdIlIy5bTtp9EoHTrTwpSv0f7Qsoybr1T9mRdjoPEMOwEBrmkgTqra5tfOtNj+bFwDCkzBkriNZvDwfoBPTpWa7EN+O4UDo+n6rD+fVW2xHZOVZM1vWJORde9m17vmKlFF5ytmu7NgjC4cFcp5SSuojQaQxJ95miE0G4anKsWbU+iqJoco0XoAQANOgFTtd8z+sf/OsBMrduW/Er3+X9taqdjj+K3j5n/TqDtbf/E7hknUbkt9cdCzD4VH2SxM4HFHbKW2Ef2fqFc8o+O/QrGXho7jF/wDlsP8A4f8A2tQf5Y7jCyChIPNGoMHY9aLrcH4Utde5prPXxJPSetCvlaw7XLKhCJ5x3MDTPRjFL3M5f6I+zdv6C2ZmVBkmZ9tZXH8aazfuoMReRZ0AYtqSZgkHKBAECtbweybVtLMg5AFmZkjQn3ivOu0HED84uHIhg5dddnYzrtvHqrYoJyYJSdINY/j2I+b4drV+9Lm8CcwDsVY5ZO2wqTEYjGPbw4t37puMl1myySQtyBPjAgU3idlLFjDrywwFu5cyuZIzOpMMBvDn2UJ4rxVxZw7WzywecAF+znURr5hj7avGKe5NydtBu/xO+ljDM1+7Lo7MyNq3e06awDHqqfsrxBr190a+9wC3IDtJBkAmNusT51n+N3s2HwkxHLuGIEaMIoj2DxvOxl25lVSbLDKogemu1TnDwsZPcn7f5kS2bbMssR3SRPdO8Vvew4PzN562EP8A0NWM7c8PuXUt5MvdYlpMbgx09dbbshbK4Ngf+Ht/sNSwikl+Qyk7YJ+TS3H/ADR+yaA/KQPxvEfpW/8ATt0d7D3IuLGxvkRJ2ytGlA/lCuH57iBpvb+qD/Z2/KsoeGjOW56BicGl1MlxQdbbLMwGQ5lOmuhA9e21V+H8JvJczNiSbfRMuYrLKWyXGGcTBESQBtOkRpijoMx28R5fm+dSrimgnM23l/4V0QyOKpEZRTdg75SwDaw8rmPziV72UAhHIJ0PhtQ7B37S/hJ0WLvJuZoaZBu6EiB4TPnV/tjhr9+1bWxcysLgaWZ1EZWEdxQTqRvpVR8HdtWMbdvXAc1h1HfeJZgV0bug6NtSNdx4vdIymPxTnMhy5Pm9q4DGs57YIny194rb4B7aoruyqMuYkkAQBJOtYDDglLly4LbBsOQCCQTlGYZu8J1UbeG9DcZxp7wVbhQqoIUA5YkR0uiqpXj0etk5f5Na8qNfwfi1zEY+0t0LCkquURILrqdfKtBx22fwrh4O3NLDUkDltsY9HbTTeaxnZMKMXhxaVVY3cKMxZnEOmd5XmHqDGka+GtaTtbjjZxJujLNtXZO7lQHJlP14OgXop386GSaajHyGxxrVLzNigEe0/fWS7c4xka3ZXLkdWZpHelHSIM6b0HwnbzENIAtGFZu7mOoBI2DRNDuNccvYi4Ztr9FmVSCyyCwGoZYJkLsQNfMVTFUcik+zsjkUpQcV3PTuHYUG1bMbon7IpUBwfbPCpbS2zHMiqrRac6qADqF11FKmk92SitkcThfDwMpxDmR/xDKd1P1I+yPj41NZ4fwxd3J0jv4i+w3nYvG9G7ZwFsS9lHP5tlrY/wD6trXLPG8OPyGEsDzzWgf+lSfjXJLicK/lf23L2gfbs8MZi2SwzHUk94nWevnQjtbjrNrlWcLZCgsWYWrWQOSGEhgNXB1Gh3mtnb7Q3z6NtI8FDt9xrC9r8FxXF3eYuGKLKmBlDd3YGT3gCAR6gdNqWGaM/lv2HUkFOyF3Dvhvxm3aNxbjAl0QuY170A6gu4391T9oLeFOGxAw9uzzeW2XKihgDAYggaaE0uxB4lhMP83bDM3eZ5LKYzQMgAYfZnw729X+0HG8T82vfOLDWlIVVzR3iWEgZbjdAelNqTdU/bYfVuea/J69tcdaa6VCotw96IDBSAdetepjjGF3z2/eK88+TK1eXHZ7YXOUuQGzRBAJ9FS3wr1lL+J+ubY/yXv3oKKfozNghuO4UFV5iazHgIHU7L7a63H8L1vW/wBYUVPEFBi5iLA8RyzPxYfdSv8AHsGurXrP/Sfuo6o93Xsa0AMXxnAOht3XsOh3VipUwZ2PnTMPxjhtuzcS2+GRWksgZEz6AarOoO00WudrOGgwbtmT+b/EU49p8B0ZD6kH3UjljXVr3BzI+YIHFcA91XtXcNz/AEUbMjv4wBmBNAO2VpbjC3cv3Whs2W3YZQCRpFwWrgI7xmTpWyucewDAhlUjrNkER56GarYYcLuMLdvC2mJkwMKsDzbuwo8zFNDJik6TTBrTezMJii63GytfGpmIIkaaThzPjuaqcqwczPhpaeuHdi2upJNka6+Br1C5wbA6zhLHmeTb28zFVLtnhfom1hh67Kj4laqoxXYNSfc8/wAbctMADhw4QHKDaYBQTrH0e/lrtVPE8hkth7OUAMQotXSBLtOgtaTE16bY4bwtvRs4U+Pct/wqf8C4Dph8NrvFu1TbeQND8zy8XcOUCmyHC6IGsvoDqYBtlgPZUtpFt9+zbFpjIzW7YV4nUHNbIjQbj1V6Pc4Nwwnv4ayT52F+8L5Co7nBeDES2HsmPBCAPUBoKNRfYXTJdzz3GG69vIblwsXUz3NiraaWsvt+NaPs/jGWy1v5zbH0aIwu2ysAAjRgyhvM+raaM4jhvA1Uk2bXdBMQ0gDwU/uodZxXALhm3bDGZEKRr6zFSm8ceuxnJx+ZkvDMRw22UNp7IObOIvg96NTq/gTQ3jJ4a+JuNfewWbKSTfC/VAH1/IUZKcLG1i97B/E11Tw7YWsSB+iD/Goc3C/5oPOgu69yuvFOH6Hn2OgEXlO5A2DerWrQxuDIjm2df/uT/wAq6q8N2m8vrtN+63TnwuAOiYgKeme2378tOpYn0kjc2D6Ne5w38KwHftGNR9Ivh66HdrltNgcSbRVoVc2Qh/tQCBMSauPwS2fQxmE8ptGf9epL3AyuDxitdsOGRfySkRAc98FjvmEe3ejUWtmNGe/QyXY3hGBuYS1cv5RcPMVs1900zuo7gcAd2Onn50Ubs/wwbC1/z2/86r9iuA4q7hQbJw5VXdfpAxeZzGYIH16LXOyeO/u8OT5Aj77lHw92/YVyXl+iHh3BcHzbTW8ocPbKlbxkEaLpmg6HY0E4zh0u49bV52yPnzrmuW4JRiJzEgEbSG6joa0OF7PYu03M+aobimUZLkL6PUZ5mZ2PhQbivZrHXCLyYdkuSQUMXEAKwTnBBOpJAA6azSuS1d/YdTSXQsp2bwKCAZBEGcQ5kfr0l7OcPJaQpzghpvueoOkv3dQDp4Ch17gt8/lOH3NDAy3cQs+cCQPVJqZMMVHewbqR5z/1XApovJD6v0yayRvcvrwbCrIVoEk/lF3Ylj8SaVUMi9bLj/Nb/iaVbVj+sbmw80elYu8lkSmGLAdbapp7Br7hQxu15P5OwG9d2PhlJrQ5em38+HjQ3iHDLVyQwg+KypHrjf2yKTNjyvfHKvRpAak+jBv9KcQf7K2vjJdv4VCe0GK1zXLC+pDp77hmq+P4JeTW0wuL0BAW592Vuu2X+Ix77AkHLmGwdIPr70SPUa8zLPiYPxNr/wB6EZOcethYcbxB2vkmdgLaj2EKaC9onxeJsi02SeYSC11YyhWgCAO8eummu8VI4Zgeh691T8DpHrrgvhdM0EbzlB9RynTfy/jGHFZIu7v72KsrQC4dwHGWbqXrbWfyZFxWZ4LEHQMqyBt7j4xRP8bzd+1h2HiLjz8UNW7mKETPqIzNt4SIAnxgVG9wxJYARvEE+cnf3UMnETyfMkCWSyE4nFDQWNPFLw+4oKjbiN8elh7vh3blo/e4NPGK6KsmQJJMEz4Az767cvkbqxPhm+8EiB5fCoqvpX7/AOxNRBd4y2zYe+P1CB64ciqd7Eq/pWr/ALbCvp5Qh++r2JxiJ3rsDWANTJ6BUU95ifX4UY4N2cuXhzMWClvQrYBOdhvN5hsD/dj2ndR1YMHMey/IYwc3sZvhuAs3tVY2lG9x7Cht/RReWJPme6PziIrUYDA8PtrlS6gnUki2Cx+0zZJJ/wDQrT27GgUAAdANABtt0FPKhRlB9Z6n+f4+deziwxxr+zthjjBUuplcXicAFyDEjzKOFJ9qR50HvYHBucy37h9ob4tW+NpTuJ9f8P5+NI4CydGt2z60U/ePV7quh+hgE4Vh+lxyNolP3DzFS4fhaM0LJ3+sgj3kCtx+CMOP7C1+oo/dXBwjDz/V7fsHv2WmsQzVvs1cMZMpjoXQ+X1T7at3OE4lQCFWB0gHT10bPBsMB+RT9YinWsLhh6Kgepyv/cKOoxkcfwsjUAg/mAAj4TWO4/2VZ2NyyHFzcqRo59ewbzmD8a9lGFsxqWj/ABn+/PVHEYHDtoWuEeV6R8Xmlkoy7A6rTI8EezetMbbNctEbqcyfcY9tRk3PtMf8xP769i492UwF/KtxrmZfRILEgeE5T3fKvOeNcNt4a5y3w7D7NxXuZH0+oxO/lEiuLJFwfS/wjkyY3Hdbr7GfVmB0kH1Vbw3FbyacwjyIke6KtWrmYkA3oO03FkevMO976jew42mP0Fn3ipScXs0iDafVIuYTjzAgu6E9JUgHwkBTOvsq/wAG4wbTXHtXrYuXB3iXcCNSZR7ZUnWAegAHSazTZvMez/aKblPWf3Vox0/K6+w0W4/K6NrgsdfXMxu2RM5eW9u0ASNDlVQWI31idKuYfHYwwfnevXKzmfMBYA6da8+Wz5D3U7kwJJAHmY++pzxSk71b/YEnJ9z06zxvFrtip/Stk/FrlWk7U4wam/bYeJRR9015vgeCYq7Bt2WynZ3BVY8ROrD9EGtJwrsio1vuzfm25tL7WMsfhRjw2ftNlIY88ujNRa7b4snKqWnPWEun9kUb4dxniNyCcLaRerXLjoT6reUt+tFCuF3Uw4y2LOQdSGUFvNiUlttyaIjjzDcMx83AHwXWuzFw847yk2dEMco/M2w986u/YH6/+1Kgn9Jj/dH9f/8ANKunSXD8x+/xprGfWfM6UqVABE1szvAE+Jn1fyKixuCtsMt1Q4JGhAIncfdSpUGr6hA9/sXbLE2rj2wRt3XA9RYT76hHYxvqYpx60Rvb3hpSpVCXDYvpE5cRv9E2Mn54/l9Haga+GQeXr8qVzsk3XEtI3m1bOx8hA9njXKVb4bF9IeVDyOt2SIH9YMa6i0v8Z0FRnsnoR85cTEAW0ER4aerf/alSrLhsX0m5UPIucF7LW7Dc05rt7+8ukMVB1KoohUEeAk9SdqMraOg28PdSpVaMUlsN0Ww8aaD2mmBP9v5mlSpjIkRP5/n30so3j1fcKVKsYebY2yjr+4Vw2V17o69BSpVjDhaUfVHsHtpfNwfEeoxSpVgFe/wlG0LXP16YODJGXO8eeU/eDSpUTMgfs4nV3PhJGnuFRv2WsupS4WcTqGyspjyIpUqBuxX/AKC4H/h7f6iH7xTW7GcPXfD2x/kXrpsB99KlWcFQFFUOfslgoK8m3/y1Pl4VE3YPBGT83sj1W1Hwiu0qyijaUiL+gOFBnlWdf/pQ/uqzguyFi02dLdgHxFhFb9YCfjSpUDUFPwXaPpKPOBFRrwGwfRDD2/xpUqaxhj8ATpcb1EBh7tKibgZH92/6SAfcKVKtbAc/B5/ul9w/86VKlWMf/9k=",
+                "type": "Photo"
+              },
+              {
+                "title": "Learn and have fun",
+                "url": "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4",
+                "type": "Video"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Park",
+        "definitions": [
+          {
+            "text": "Place to play and have fun",
+            "source": "Collins English Dictionary"
+          },
+          {
+            "text": "Small natural areas in the middle of the town",
+            "source": "The Chambers Dictionary"
+          }
+        ],
+        "sentences": [
+          {
+            "text": "We are playing at the park",
+            "resources": [
+              {
+                "title": "Aspire Park",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Aspire_Park%2C_Doha_-_panoramio_%281%29.jpg/440px-Aspire_Park%2C_Doha_-_panoramio_%281%29.jpg",
+                "type": "Photo"
+              },
+              {
+                "title": "Al Khor Family Park",
+                "url": "data:image/jpeg;base64,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",
+                "type": "Photo"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Hospital",
+        "definitions": [
+          {
+            "text": "Place where sick people go to get cured",
+            "source": "The Urban Dictionary"
+          },
+          {
+            "text": "Place where doctors treat patients",
+            "source": "The Hacker’s Dictionary"
+          }
+        ],
+        "sentences": [
+          {
+            "text": "I am sick, so I will go to the hospital",
+            "resources": [
+              {
+                "title": "Hamad Hospital",
+                "url": "https://thepeninsulaqatar.com/uploads/2017/06/20/post_main_cover_fit//9cecf42be0f4dcfa2b6f7e0d78e2ac8cb3b91c7c.jpg",
+                "type": "Photo"
+              },
+              {
+                "title": "Sidra Medical and Research Center",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Construction_of_Sidra_Medical_and_Research_Center_in_2014.jpg/440px-Construction_of_Sidra_Medical_and_Research_Center_in_2014.jpg",
+                "type": "Photo"
+              },
+              {
+                "title": "Sidra Medical and Research Center Tour",
+                "url": "https://erradi.github.io/Sidra-Medicine.mp4",
+                "type": "Video"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Coffee shop",
+        "definitions": [
+          {
+            "text": "Place to buy coffee and small meals",
+            "source": "Wikipedia"
+          }
+        ],
+        "sentences": [
+          {
+            "text": "I want to buy a coffee from the coffee shop",
+            "resources": [
+              {
+                "title": "Starbucks Coffee",
+                "url": "https://ezdanmall.qa/al-gharaffa/wp-content/uploads/sites/2/2018/08/STARBUCKS-COFFEE.jpg",
+                "type": "Photo"
+              },
+              {
+                "title": "Delicious Coffee",
+                "url": "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4",
+                "type": "Video"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Dentist",
+        "definitions": [
+          {
+            "text": "Place to go to cure pain in your teeth",
+            "source": "QU Dictionary"
+          }
+        ],
+        "sentences": [
+          {
+            "text": "I will go to the dentist because I have a toothache",
+            "resources": [
+              {
+                "title": "Dentist",
+                "url": "https://www.qu.edu.qa/static_file/qu/colleges/dentistry/showarea/10.jpg",
+                "type": "Photo"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "University",
+        "definitions": [
+          {
+            "text": "Place to get higher education",
+            "source": "QU Dictionary"
+          }
+        ],
+        "sentences": [
+          {
+            "text": "I will study Medicine at Qatar university",
+            "resources": [
+              {
+                "title": "Qatar university",
+                "url": "https://www.qu.edu.qa/static_file/qu/research/images/about%208.jpg",
+                "type": "Photo"
+              },
+              {
+                "title": "Qatar University Website",
+                "url": "https://www.qu.edu.qa/",
+                "type": "Website"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "packageId": 2,
+    "author": "t2@test.com",
+    "category": "Places",
+    "description": "Continuing on the previous package, here is a list of 6 more places that we can find in town",
+    "iconUrl": "https://cdn-icons-png.flaticon.com/128/1527/1527531.png",
+    "language": "English",
+    "lastUpdatedDate": "2019/02/09",
+    "level": "Beginner",
+    "title": "Places In Town 2",
+    "version": 1,
+    "words": [
+      {
+        "text": "Grocery store",
+        "definitions": [
+          {
+            "text": "Place to buy grocery items",
+            "source": "Dictionary"
+          }
+        ],
+        "sentences": [
+          {
+            "text": "I will buy vegetables at the grocery store",
+            "resources": [
+              {
+                "title": "Grocery store",
+                "url": "https://www.expatica.com/app/uploads/sites/2/2014/05/spain-grocery.jpg",
+                "type": "Photo"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Garage",
+        "definitions": [
+          {
+            "text": "Place to get your car fixed when it is not working properly",
+            "source": "Dictionary"
+          }
+        ],
+        "sentences": [
+          {
+            "text": "Adam will take the broken car to the garage",
+            "resources": [
+              {
+                "title": "Garage",
+                "url": "https://www.chrislovesjulia.com/wp-content/uploads/2020/06/061A4057.jpg",
+                "type": "Photo"
+              },
+              {
+                "title": "Garage video",
+                "url": "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4",
+                "type": "Video"
+              }
+            ]
+          }
+        ]},
+      {
+        "text": "Restaurant",
+        "definitions": [
+          {
+            "text": "Place to buy a meal and eat it",
+            "source": "Dictionary"
+          },
+          {
+            "text": "Place to eat",
+            "source": "Dictionary2"
+          }
+        ],
+        "sentences": [
+          {
+            "text": "We will go to the restaurant for dinner",
+            "resources": [
+              {
+                "title": "Restaurant",
+                "url": "https://www.ikea.com/images/ikea-restaurant-0745426d2a11d5a15d9c4fdf85ce4de4.jpg?f=xxxl",
+                "type": "Photo"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Police station",
+        "definitions": [
+          {
+            "text": "Place where police men work",
+            "source": "Dictionary"
+          }
+        ],
+        "sentences": [
+          {
+            "text": "My father works at the police station",
+            "resources": [
+              {
+                "title": "Police station",
+                "url": "https://media.istockphoto.com/vectors/the-police-car-opposite-the-of-the-police-station-vector-id886490230?b=1&k=6&m=886490230&s=612x612&w=0&h=dAqfQLecS0NH-Px6uQlOnGXXxhThHvW93ri4go--Cac=",
+                "type": "Photo"
+              },
+              {
+                "title": "Police station video",
+                "url": "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4",
+                "type": "Video"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Post office",
+        "definitions": [
+          {
+            "text": "Place that is responsible of delivering items that you want to send to someone",
+            "source": "Dictionary"
+          }
+        ],
+        "sentences": [
+          {
+            "text": "She took the letter to the post office",
+            "resources": [
+              {
+                "title": "Post office",
+                "url": "https://en.pimg.jp/008/349/586/1/8349586.jpg",
+                "type": "Photo"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Library",
+        "definitions": [
+          {
+            "text": "Place to borrow books",
+            "source": "Dictionary"
+          },
+          {
+            "text": "Place to study and read books",
+            "source": "Dictionary2"
+          }
+        ],
+        "sentences": [
+          {
+            "text": "I will borrow a book from the library",
+            "resources": [
+              {
+                "title": "Library",
+                "url": "https://www.mathaf.org.qa/images/research/library-620-1.jpg",
+                "type": "Photo"
+              },
+              {
+                "title": "Library Website",
+                "url": "https://www.qnl.qa/en",
+                "type": "Website"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "packageId": 3,
+    "author": "t3@test.com",
+    "category": "Food",
+    "description": "Fruit Vocabulary Word List",
+    "iconUrl": "https://cdn-icons-png.flaticon.com/128/1625/1625099.png",
+    "language": "English",
+    "lastUpdatedDate": "2020-27-9",
+    "level": "Easy",
+    "title": "Fruits Package",
+    "version": 3,
+    "words":
+    [
+      {
+        "text": "Strawberry",
+        "definitions":
+        [
+          {
+            "text": "A small juicy red fruit that has small brown seeds on its surface, or the plant with white flowers on which this fruit grows",
+            "source":"Cambridge Dictionary"
+          },
+          {
+            "text": "A sweet soft red fruit with a seed-studded surface",
+            "source":"OXFORD Dictionary"
+          }
+        ],
+        "sentences":
+        [
+          {
+            "text": "We sat in the garden hulling Strawberries",
+            "resources":
+            [
+              {
+                "url": "https://ak.picdn.net/shutterstock/videos/4235933/preview/stock-footage-stalks-being-removed-from-strawberries.webm",
+                "title": "Hulling Strawberries",
+                "type":"Video"
+              }
+            ]
+          },
+          {
+            "text": "Strawberries color is red",
+            "resources":
+            [
+              {
+                "url": "https://image.shutterstock.com/image-vector/vector-illustration-strawberry-fruit-flat-600w-1653837160.jpg",
+                "title": "Strawberry",
+                "type":"Photo"
+              },
+              {
+                "url": "https://cdn.videvo.net/videvo_files/video/premium/video0252/small_watermarked/4000-4_07508_preview.webm",
+                "title": "Fresh strawberries",
+                "type":"Video"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Apple",
+        "definitions":
+        [
+          {
+            "text": "the round fruit of a tree of the rose family, which typically has thin green or red skin and crisp flesh",
+            "source":"Cambridge Dictionary"
+          },
+          {
+            "text": "the tree bearing apples, with hard pale timber that is used in carpentry and to smoke food",
+            "source":"OXFORD Dictionary"
+          }
+        ],
+        "sentences":
+        [
+          {
+            "text": "We sat in the garden hulling Apples",
+            "resources":
+            [
+              {
+                "url": "https://ak.picdn.net/shutterstock/videos/4235933/preview/stock-footage-stalks-being-removed-from-strawberries.webm",
+                "title": "Hulling Apples",
+                "type":"Video"
+              }
+            ]
+          },
+          {
+            "text": "Apples color is Green",
+            "resources":
+            [
+              {
+                "url": "https://image.shutterstock.com/image-vector/vector-illustration-strawberry-fruit-flat-600w-1653837160.jpg",
+                "title": "Apple",
+                "type":"Photo"
+              },
+              {
+                "url": "https://cdn.videvo.net/videvo_files/video/premium/video0252/small_watermarked/4000-4_07508_preview.webm",
+                "title": "Fresh Apples",
+                "type":"Video"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Grapes",
+        "definitions":
+        [
+          {
+            "text": "A berry (typically green, purple, or black) growing in clusters on a grapevine, eaten as fruit",
+            "source":"OXFORD Dictionary"
+          },
+          {
+            "text": "A small, round, purple or pale green fruit that you can eat",
+            "source":"Cambridge Dictionary"
+          }
+
+        ],
+        "sentences":
+        [
+          {
+            "text": "She pulled another grape off the bunch and popped it into her mouth",
+            "resources":
+            [
+              {
+                "url": "https://ak.picdn.net/shutterstock/videos/1060460383/preview/stock-footage-child-eat-sweet-grape-little-girl-vegetarian-is-eating-white-grapes-from-plate-sitting-home-at.webm",
+                "title": "Eating Grapes",
+                "type":"Video"
+              },
+              {
+                "url": "https://ak.picdn.net/shutterstock/videos/1055039492/preview/stock-footage-aerial-view-grape-field-vineyard-rows-vineyard-plantation-grapevines-and-plant-rows.webm",
+                "title": "Grapes Farms",
+                "type":"Video"
+              }
+            ]
+          },
+          {
+            "text": "The Mediterranean climate is good for growing citrus fruits and grapes",
+            "resources":
+            [
+              {
+                "url": "https://ak.picdn.net/shutterstock/videos/1055039492/preview/stock-footage-aerial-view-grape-field-vineyard-rows-vineyard-plantation-grapevines-and-plant-rows.webm",
+                "title": "Grapes Farms",
+                "type":"Video"
+              },
+              {
+                "url": "https://image.shutterstock.com/image-photo/fresh-grapes-isolated-on-white-600w-1477567895.jpg",
+                "title": "Grapes",
+                "type":"Photo"
+              },
+              {
+                "url": "https://image.shutterstock.com/image-vector/bunch-red-pink-grapes-juice-600w-1795583716.jpg",
+                "title": "Red Grapes",
+                "type":"Photo"
+              },
+              {
+                "url": "https://cdn.videvo.net/videvo_files/video/free/2015-08/small_watermarked/redgrapes_preview.webm",
+                "title": "Macro Red Grapes",
+                "type":"Video"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "packageId": 4,
+    "author": "t2@test.com",
+    "category": "Health",
+    "description": "Health domain terminology",
+    "language": "English",
+    "lastUpdatedDate": "2020-10-9",
+    "level": "Average",
+    "title": "Corona Package",
+    "version": 2,
+    "words": [
+      {
+        "text": "Corona Virus",
+        "definitions": [
+          {
+            "text": "A group of RNA viruses that cause diseases in mammals and birds",
+            "source": "Wikipedia"
+          }
+        ],
+        "sentences": [
+          {
+            "text": "Precautionary measures",
+            "resources": [
+              {
+                "url": "https://www.flaticon.com/svg/static/icons/svg/3596/3596032.svg",
+                "title": "COVID19 protection",
+                "type": "Photo"
+              }
+            ]
+          },
+          {
+            "text": "Coronavirus is continuing its spread across the world",
+            "resources": [
+              {
+                "url": "https://www.flaticon.com/svg/static/icons/svg/2790/2790740.svg",
+                "title": "Covid19 spreading",
+                "type": "Photo"
+              },
+              {
+                "url": "https://v.ftcdn.net/03/78/85/13/700_F_378851397_QzZElSE57apQuLLqJrpJvSROX23988IP_ST.mp4",
+                "title": "Pearl Qatar Island",
+                "type": "Video"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "COVID-19",
+        "definitions": [
+          {
+            "text": "A group of RNA viruses that cause diseases in mammals and birds",
+            "source": "Wikipedia"
+          }
+        ],
+        "sentences": [
+          {
+            "text": "Precautionary measures",
+            "resources": [
+              {
+                "url": "https://www.flaticon.com/svg/static/icons/svg/3596/3596032.svg",
+                "title": "COVID19 protection",
+                "type": "Photo"
+              }
+            ]
+          },
+          {
+            "text": "Coronavirus is continuing its spread across the world",
+            "resources": [
+              {
+                "url": "https://www.flaticon.com/svg/static/icons/svg/2790/2790740.svg",
+                "title": "Covid19 spreading",
+                "type": "Photo"
+              },
+              {
+                "url": "https://v.ftcdn.net/03/78/85/13/700_F_378851397_QzZElSE57apQuLLqJrpJvSROX23988IP_ST.mp4",
+                "title": "Pearl Qatar Island",
+                "type": "Video"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
